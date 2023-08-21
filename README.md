@@ -8,4 +8,6 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 
 > This provides a basic breadcrumb structure that will display like the image below:
 
+![screenshot](screen-shot-breadcrumbs.png)
+
 > In the exercises, you will replicate this behavior for our travel website.
