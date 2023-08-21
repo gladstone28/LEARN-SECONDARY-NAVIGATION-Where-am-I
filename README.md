@@ -11,3 +11,7 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 ![screenshot](screen-shot-breadcrumbs.png)
 
 > In the exercises, you will replicate this behavior for our travel website.
+
+memory jog
+
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/WEB_DEVELOPEMNT_FOUNDATION/LEARN-SECONDARY-NAVIGATION-Where-am-I
